@@ -28,8 +28,9 @@ module.exports.run = async (client, message) => {
     }
 
     module.exports.config = {
-      name: "apply1",
-      description: "apply1",
-      usage: "!apply1",
+      name: "apply2",
+      description: "",
+      usage: "!apply2",
       accessableby: "Members",
+      aliases: ['apply2']
     }
