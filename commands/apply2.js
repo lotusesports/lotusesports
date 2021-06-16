@@ -9,19 +9,24 @@ module.exports.run = async (client, message) => {
         .setTitle('Lotus eSports - How to apply')
         .setDescription(`
 
-        **1** • Visit our chat named: Application.
-        **2** • Send a message containing the following information: In game name, Age, Country.
-        **3** • When u sended this message you will have to wait till our recruiters contact you. (In a DM or in that chat).
-        **4** • When our recruiters have time, you will be invited in to a voice chat. This is where the application will happen.
-        **5** • You will know if you got accepted right away.
+        You can apply by simply filling in one of the following forms.
+        For questions, please create a ticket in #support.
         
-        **INFO:**
-        Rank doesnt matter, experience doenst matter, but motivation does matter alot.
-        What will we do in a application voice chat?
-        We will ask you why you want to join and check if you are motivated.
-        Also we will check if you are a non-toxic person. Because we want our community to stay user friendly.
-        If you have any questions, please create a ticket in #support.
-        Have fun and good luck!`)
+        **League of Legends:**
+        Apply: https://bit.ly/2UdQPSB
+        
+        **Rocket league:**
+        Apply: https://bit.ly/3iKz33u
+        
+        **Valorant:**
+        Apply: https://bit.ly/2Tvl3Qu
+
+        **CS-GO:**
+        Apply: https://bit.ly/3xqLRA8
+        
+        You will be updated about your application in the #application chat.
+        This will take about 1/2 days.
+        Please wait patiently.`)
         .setColor('#a93dff')
 
       message.channel.send(embed)
