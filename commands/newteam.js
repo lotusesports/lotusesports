@@ -7,23 +7,20 @@ module.exports.run = async (client, message) => {
 
         const embed = new Discord.MessageEmbed()
         .setTitle("**Welcome - New team**")
-        .setFooter(`
+        .setDescription(`
+
         Welcome to Lotus eSports.
         You all have been selected to join a Lotus eSports team.
         We want to give you some starters information. Please take your time to read this message.
         
         **Rules**
-        We made some rules to make sure that everything runs smooth.
-        Here for we want to redirect you to our website. Please read our team related rules on the website.
+        We made some rules to make sure that everything runs smooth. Here for we want to redirect you to our website. Please read our team related rules on the website.
         https://lotusesports.eu/rules.html
         
         **Organization**
-        We made this team with 5 new lotus members.
-        This means that all of u are joining a lotus team for the first time.
-        One of you is going to be the team captain.
-        You can deside with your team who that is going to be.
-        The team captain is in direct contact with a Lotus staff member to tell us about your team status.
-        Also he is responsible to contact lotus for roster changes / problems / ect.
+        We made this team with 5 new lotus members. This means that all of u are joining a lotus team for the first time.
+        One of you is going to be the team captain. You can deside with your team who that is going to be.
+        The team captain is in direct contact with a Lotus staff member to tell us about your team status. Also he is responsible to contact lotus for roster changes / problems / ect.
         
         You also have a team manager.
         This is someone from Lotus, a person that will fix all the problems for you and your team.
