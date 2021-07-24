@@ -22,7 +22,10 @@ module.exports.run = async (client, message) => {
         https://discord.gg/WHgCgtu3eA
         
         Check out our website:
-        https://lotusesports.eu/index.html`)
+        https://lotusesports.eu/index.html
+        
+        Donate page
+        https://lotus-esports.tebex.io/category/1875259`)
         .setFooter('If you have any questions, please contact us in #support or tagg a staff member of choice..')
         .setColor('#665cff')
 
