@@ -19,13 +19,10 @@ module.exports.run = async (client, message) => {
         https://lotusesports.eu/rules.html
 
         Invite your friends with this Discord invite link.
-        https://discord.gg/WHgCgtu3eA
+        https://discord.gg/uBnd4Yxdc5
         
         Check out our website:
-        https://lotusesports.eu/index.html
-        
-        Donate page
-        https://lotus-esports.tebex.io/category/1875259`)
+        https://lotusesports.eu/`)
         .setFooter('If you have any questions, please contact us in #support or tagg a staff member of choice..')
         .setColor('#665cff')
 
