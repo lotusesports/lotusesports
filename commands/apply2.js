@@ -19,7 +19,7 @@ module.exports.run = async (client, message) => {
         Apply: https://bit.ly/3iKz33u
         
         **Valorant:**
-        Apply: https://bit.ly/2Tvl3Qu
+        Apply: https://bit.ly/3jX3Ton
 
         **CS-GO:**
         Apply: https://bit.ly/3xqLRA8
