@@ -16,13 +16,13 @@ module.exports.run = async (bot, message, args) => {
         .setTitle('Lotus Applications - Rejected')
         .setDescription(`**Recruiter:** ${message.author}
                          **Member:** ${dUser}`)
-        .setThumbnail(`https://cdn.discordapp.com/attachments/841443613987962940/850485530323058718/rejected.png`)
+        .setThumbnail(`https://cdn.discordapp.com/attachments/852193039694299186/878299557849608212/lotuslogo1.png`)
         .setColor('#fc6d62')
         .setFooter(`${dMessage}`)
 
       message.channel.send(embed)
 
-      dUser.send(`Your application has been rejected. There are many reasons for rejections, Though in many cases it is because we found your drive lacking on this occasion. If you have any questions or want to know exact reasons why your application has been rejected, then please contact the staff team. The easiest way to do this is by creating a ticket or by joining the voice support waiting room. You can always make a new application once you have received your feedback, and it often works out well!
+      dUser.send(`Your application has been rejected. There are many reasons for rejections, Though in many cases it is because we found your drive lacking on this occasion. If you have any questions or want to know the exact reasons why your application has been rejected, then please contact the staff team. The easiest way to do this is by creating a ticket or by joining the voice support waiting room. You can always make a new application once you have received your feedback, and it often works out well!
       
 **User:** ${dUser}
 **Recruiter:** ${message.author}

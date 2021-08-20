@@ -16,13 +16,13 @@ module.exports.run = async (bot, message, args) => {
         .setTitle('Lotus Applications - Accepted')
         .setDescription(`**Recruiter:** ${message.author}
                          **Member:** ${dUser}`)
-        .setThumbnail(`https://cdn.discordapp.com/attachments/841443613987962940/850481812815085628/logodiscord.png`)
+        .setThumbnail(`https://cdn.discordapp.com/attachments/852193039694299186/878299557849608212/lotuslogo1.png`)
         .setColor('#69f591')
         .setFooter(`${dMessage}`)
 
       message.channel.send(embed)
 
-      dUser.send(`Your application has been accepted. You will receive the member roles soon. If you have any questions, please contact our staff by creating a ticket. Getting placed into a casual team will take about 1 - 4 days. Getting placed into a competitive team can take a bit longer. This really depends on the free possitions ect. Well anyway! Gratz with your member role. And welcome in Lotus eSports.
+      dUser.send(`Your application has been accepted. You will receive the member roles soon. If you have any questions, please contact our staff by creating a ticket. Getting placed into a casual team will take about 1 - 4 days. Getting placed into a competitive team can take a bit longer. This really depends on the free positions etc. Well anyway! Gratz with your member role. And welcome to Lotus eSports.
       
 **User:** ${dUser}
 **Recruiter:** ${message.author}
